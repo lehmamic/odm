@@ -1,0 +1,17 @@
+{
+  "name": "odm",
+  "version": "0.0.0",
+  "description": "The Open Deployment Manager is an easy to use deployment manager base on NuGet packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lehmamic",
+  "bugs": {
+    "url": "https://github.com/lehmamic/odm/issues"
+  },
+  "homepage": "https://github.com/lehmamic/odm",
+  "devDependencies": {
+    "gulp": "^3.8.9"
+  }
+}

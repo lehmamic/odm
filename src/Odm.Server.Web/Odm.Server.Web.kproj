@@ -6,13 +6,13 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\AspNet\Microsoft.Web.AspNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>cec3954e-3e48-433b-a8e0-ad072d25f239</ProjectGuid>
+    <ProjectGuid>a656b1c9-ea6f-43c4-a91f-c5baf72cea82</ProjectGuid>
     <OutputType>Web</OutputType>
-    <RootNamespace>Odm.Server.Host</RootNamespace>
+    <RootNamespace>Odm.Server.Web</RootNamespace>
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
-    <DevelopmentServerPort>62399</DevelopmentServerPort>
+    <DevelopmentServerPort>63156</DevelopmentServerPort>
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\AspNet\Microsoft.Web.AspNet.targets" Condition="'$(VSToolsPath)' != ''" />
 </Project>
